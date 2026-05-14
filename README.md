@@ -10,7 +10,7 @@ In this project you will build such a pipeline.
 
 - **W&B project (public):** https://wandb.ai/fahd-alshal-general-organization-for-social-insurance/nyc_airbnb
 - **EDA notebook:** [src/eda/EDA.ipynb](src/eda/EDA.ipynb)
-- **Release:** [v1.0.1](https://github.com/FahadAlshalawi/build-ml-pipeline-for-short-term-rental-prices/releases/tag/1.0.1)
+- **Release:** [v1.0.2](https://github.com/FahadAlshalawi/build-ml-pipeline-for-short-term-rental-prices/releases/tag/1.0.2)
 
 ### Model performance
 
